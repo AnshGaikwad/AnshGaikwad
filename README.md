@@ -1,4 +1,4 @@
-# Hello there, Ansh Here 👋
+# Hello there, Ansh here 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashhalgaonkar&label=Profile Views&color=blue&style=plastic" alt="AnshGaikwad" /> </p>
 
