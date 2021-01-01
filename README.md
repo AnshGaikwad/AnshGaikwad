@@ -1,14 +1,7 @@
 # Hello there, Ansh here 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashhalgaonkar&label=Profile Views&color=blue&style=plastic" alt="AnshGaikwad" /> </p>
 
-I am a beginner developer with 3+ years of programming experience. 
-I know I am a newbie but trust me I have a lot of potential than anyone expects of me. 
-I like solving competitive coding problems and love playing brain teaser games, mostly chess. 
-I like developing interesting applications with Python and Android Studio. 
-My other fields of interest are Machine Learning and Cyber Security. 
 
-## Check this out:
 
 <a href="https://www.linkedin.com/in/ansh-gaikwad-13814219a/">
   <img align="left" alt="Ansh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -23,15 +16,22 @@ My other fields of interest are Machine Learning and Cyber Security.
   <img align="left" alt="Ansh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<a href="https://medium.com/@anshyg2002/">
+  <img align="left" alt="Ansh's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
+</br>
+</br>
+
+![](https://komarev.com/ghpvc/?username=AnshGaikwad&style=flat-square)
+
 </br>
 </br>
 
 
-- 🔭 I’m currently working on my Competitive Programming Skills.
-- 🌱 I’m currently learning Data Structures & Algorithms.
-- 👯 I’m looking to collaborate with you.
-- 🤔 I’m looking for help with Artificial Intelligence.
-- 💬 Ask me about Chess, Android, Git, Machine Learning, Cyber Security, etc.
+- 🔭 I’m currently working on my Competitive Programming.
+- 🌱 I’m currently learning MERN Stack.
+- 💬 Ask me about Chess, Android, Git, Augmented Reality, Machine Learning, Cyber Security, etc.
 - ⚡ Fun fact: I do what, I like. I code what, I complete.
 - 📫 How to reach me: follow the links up there 👆👆
 
