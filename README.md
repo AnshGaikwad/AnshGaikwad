@@ -19,7 +19,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AnshGaikwad&style=flat-square)
 
-## A little about me
+## A little about me . . .
 
 - 🔭 I’m currently working on my Competitive Programming.
 - 🌱 I’m currently learning MERN Stack.
