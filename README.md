@@ -1,8 +1,5 @@
 # Hello there, Ansh here 👋
 
-
-
-
 <a href="https://www.linkedin.com/in/ansh-gaikwad-13814219a/">
   <img align="left" alt="Ansh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -20,14 +17,9 @@
   <img align="left" alt="Ansh's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-</br>
-</br>
-
 ![](https://komarev.com/ghpvc/?username=AnshGaikwad&style=flat-square)
 
-</br>
-</br>
-
+## A little about me
 
 - 🔭 I’m currently working on my Competitive Programming.
 - 🌱 I’m currently learning MERN Stack.
