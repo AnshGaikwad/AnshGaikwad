@@ -33,10 +33,3 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshGaikwad&count_private=true&show_icons=true alt="Ansh's GitHub Stats"/>
 </a>
 
-</br>
-</br>
-
-<a href="https://github.com/AnshGaikwad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshGaikwad&count_private=true&show_icons=true&line_langs_below=1" />
-</a>
-
