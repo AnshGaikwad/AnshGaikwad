@@ -21,10 +21,12 @@
 
 ## A little about me . . .
 
-- 🔭 I’m currently working on my Competitive Programming.
+- 🔭 I’m currently working on my Program Optimization Skills.
 - 🌱 I’m currently learning MERN Stack.
-- 💬 Ask me about Chess, Android, Git, Augmented Reality, Machine Learning, Cyber Security, etc.
-- ⚡ Fun fact: I do what, I like. I code what, I complete.
+- 👯 I’m looking to collaborate with you.
+- 🤔 I’m looking for help with Cloud Computing.
+- 💬 Ask me about Chess, Android, Augmented Reality, Machine Learning, Cyber Security, etc.
+- ⚡ Fun fact: I like to code 😅
 - 📫 How to reach me: follow the links up there 👆👆
 
 </br>
