@@ -24,12 +24,11 @@
 
 ## A little about me . . .
 
-- 🔭 I’m currently working on my Optimization Skills.
-- 🌱 I’m currently learning MERN Stack.
+- 🔭 I’m currently working on my Problem Solving Skills.
+- 🌱 I’m currently learning new Algorithms.
 - 👯 I’m looking to collaborate with you.
-- 🤔 I’m looking for help with Cloud Computing.
-- 💬 Ask me about Chess, Android, Augmented Reality, Machine Learning, Cyber Security, etc.
-- ⚡ Fun fact: I like to code 😅
+- 💬 Ask me about Chess, Android, AR/VR, ML/DL, Cyber Security, MERN, etc.
+- ⚡ Fun fact: Programming is my habbit, Learning is my passion.
 - 📫 How to reach me: follow the links up there 👆👆
 
 </br>
