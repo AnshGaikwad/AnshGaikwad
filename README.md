@@ -21,19 +21,3 @@
 </a>
 
 ![](https://komarev.com/ghpvc/?username=AnshGaikwad&style=flat-square)
-
-## A little about me . . .
-
-- 🔭 I’m currently working on my Problem Solving Skills.
-- 🌱 I’m currently learning new Algorithms.
-- 👯 I’m looking to collaborate with you.
-- 💬 Ask me about Chess, Android, AR/VR, ML/DL, Cyber Security, MERN, etc.
-- ⚡ Fun fact: Programming is my habbit, Learning is my passion.
-- 📫 How to reach me: follow the links up there 👆👆
-
-</br>
-
-<a href="https://github.com/AnshGaikwad">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshGaikwad&count_private=true&show_icons=true alt="Ansh's GitHub Stats"/>
-</a>
-
